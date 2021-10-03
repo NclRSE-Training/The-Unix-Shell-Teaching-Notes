@@ -21,4 +21,4 @@ ls --help
 man ls
 ls -j
 ```
-[Exercises](episode2.md)
+[Exercises](episode2_ex.md)
