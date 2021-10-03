@@ -21,4 +21,4 @@ $ touch my_file.txt
 3. Some programs do not generate output files themselves, but instead require that empty files have already been generated. When the program is run, it searches for an existing file to populate with its output.  The touch command allows you to efficiently generate a blank text file to be used by such programs.
 </details>
 
-[Return](expisode3.md)
+[Return](episode3.md)
