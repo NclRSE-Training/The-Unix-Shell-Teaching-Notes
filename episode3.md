@@ -47,3 +47,25 @@ nano draft.txt
 ls
 ```
 [Exercise](expisode3_ex1.md)
+
+### What's In a Name?
+Extensions: 
+1. .txt
+2. .pdf
+3. .cfg
+4. .png
+5. whale.mp3
+
+## Moving files and Directories
+
+```bash
+cd ~/Desktop/shell-lesson-data/
+mv thesis/draft.txt thesis/quotes.txt
+ls thesis
+mv thesis/quotes.txt .
+ls thesis
+ls thesis/quotes.txt - ERROR
+ls quotes
+```
+
+[Exercises](expisode3_ex2.md)
