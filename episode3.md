@@ -80,3 +80,10 @@ ls thesis thesis_backup
 ```
 
 [Exercises](episode3_ex3.md)
+
+## Removing files and directories
+
+## Operations with multiple files and directories
+
+### Using wildcards for accessing multiple files at once
+
