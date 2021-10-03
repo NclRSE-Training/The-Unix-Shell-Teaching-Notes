@@ -17,10 +17,10 @@ unzip shell-lesson-data.zip
 # Episode 2 Navigating Files and Directories
 
 ## Home Directory Variation
-![Filesystem](fig/filesystem.svg)
+![Filesystem](https://newcastlerse-training.github.io/carpentries-unix-exercises/fig/filesystem.svg)
 
 ## Slashes
-![File System 2](fig/home-directories.svg)
+![File System 2](https://newcastlerse-training.github.io/carpentries-unix-exercises/fig/home-directories.svg)
 
 
 ## Commands
