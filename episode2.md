@@ -79,5 +79,5 @@ cd ..
 cd ~/Desktop/shell-lesson-data
 cd creatures
 cd -
-
+```
 [Exercises](episode2_ex2.md)
