@@ -69,3 +69,14 @@ ls quotes
 ```
 
 [Exercises](expisode3_ex2.md)
+
+## Copying files and directories
+
+```bash
+cp quotes.txt thesis/quotations.txt
+ls quotes.txt thesis/quotations.txt
+cp -r thesis thesis_backup
+ls thesis thesis_backup
+```
+
+[Exercises](episode3_ex3.md)
