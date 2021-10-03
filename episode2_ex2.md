@@ -86,3 +86,5 @@ pnas_sub/ pnas_final/ original/
 <br>
 <strong>3. Yes: uses the absolute path explicitly.</strong>
 </details>
+
+[Episode 3](episode3.md)
