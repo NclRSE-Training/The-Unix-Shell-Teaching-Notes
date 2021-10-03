@@ -1,4 +1,4 @@
-# Creating Files a Different Way
+## 3.1 Creating Files a Different Way
 
 We have seen how to create text files using the nano editor. Now, try the following command:
 
