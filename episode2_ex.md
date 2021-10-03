@@ -19,3 +19,5 @@ By default, ```ls``` lists the contents of a directory in alphabetical order by 
 The most recently changed file is listed last when using ```-rt```. This can be very useful for finding your most recent edits or checking to see if a new output file was written.
   </p>
   </details>
+
+[Episode 3](episode3.md)
