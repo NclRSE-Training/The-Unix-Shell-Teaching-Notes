@@ -12,5 +12,7 @@ Solution
 
   The <code>-l</code> option makes <code>ls</code> use a long listing format, showing not only the file/directory names but also additional information, such as the file size and the time of its last modification. If you use both the <code>-h</code> option and the <code>-l</code> option, this makes the file size ‘human readable’, i.e. displaying something like <code>5.3K</code> instead of <code>5369</code>.
 
+  </details>
+  
 [Episode 2 Exercise 2](episode2_ex2.md)
 
