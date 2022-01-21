@@ -37,13 +37,11 @@ What is the output of the closing `ls` command in the sequence shown below?
 </summary>
  2. 
  <br>
-Starting in the `/Users/jamie/data` directory
-<br>
-  $ mkdir recombined ----> create new folder
-  <br>
-  $ mv proteins.dat recombined/ -----> move proteins.dat to the new folder
-  <br>
-  $ cp recombined/proteins.dat ../proteins-saved.dat -----> copies this file to the parent directory of our current location
+Starting in the `<code>/Users/jamie/data</code>` directory<br/>
+<code>$ mkdir recombined</code> ----> create new folder<br/>
+<code>$ mv proteins.dat recombined/</code> -----> move proteins.dat to the new folder<br/>
+<code>$ cp recombined/proteins.dat ../proteins-saved.dat</code> -----> copies this file to the parent directory of our current location
+
 </details>
 
 [Episode 3 Exercise 5](episode3_ex5.md)
