@@ -1,4 +1,4 @@
-## Using rm Safely
+## 3.5 Using rm Safely
 
 What happens when we execute ```rm -i thesis_backup/quotations.txt```? Why would we want this protection when using ```rm```?
 
