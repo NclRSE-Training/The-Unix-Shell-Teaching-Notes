@@ -15,4 +15,5 @@ Solution
   Option 4 is the solution. The pipe character <code>|</code> is used to connect the output from one command to the input of another. <code>></code> is used to redirect standard output to a file. Try it in the <code>shell-lesson-data/molecules</code> directory!
 
 </details>
+
 [Episode 4 Exercise 5](episode4_ex5.md)
