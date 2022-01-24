@@ -32,5 +32,5 @@ $ cut -d , -f 2 animals.txt | sort | uniq
   
   </details>
   
-  [Episode 4 Exercise 7](episode4_ex7.md
+  [Episode 4 Exercise 7](episode4_ex7.md)
 
