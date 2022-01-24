@@ -12,6 +12,7 @@ Solution
   </pre>
 
   The <code>-i</code> option will prompt before (every) removal (use <code>Y</code> to confirm deletion or <code>N</code> to keep the file). The Unix shell doesn’t have a trash bin, so all the files removed will disappear forever. By using the <code>-i</code> option, we have the chance to check that we are deleting only the files that we want to remove.
-</detail>
+
+  </details>
 
 [Episode 3 Exercise 6](episode3_ex6.md)
