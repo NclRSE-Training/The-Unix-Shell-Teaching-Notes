@@ -24,11 +24,11 @@ $ mv sucrose.dat maltose.dat ____/____
 <summary>Solution
 </summary>
   
-~~~bash
+<code>
 $ mv sucrose.dat maltose.dat ../raw
-~~~
+ </code>
   
-Recall that ```..``` refers to the parent directory (i.e. one above the current directory) and that ```.``` refers to the current directory.
+ Recall that <code>..</code> refers to the parent directory (i.e. one above the current directory) and that <code>.</code> refers to the current directory.
 </details>
 
 [Episode 3 exercise 3](episode3_ex3.md)
