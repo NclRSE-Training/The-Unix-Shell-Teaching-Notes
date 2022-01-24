@@ -54,3 +54,6 @@ The fourth set of commands achieve this objective. Remember, the ```-p``` option
 
 The final set of commands generates the ‘raw’ and ‘processed’ directories at the same level as the ‘data’ directory.
 
+</details>
+
+[Episode 4 Exercise 1](episode4_ex1.md)
