@@ -35,3 +35,8 @@ Solution
 
   Jamie needs to move her files <code>fructose.dat</code> and <code>sucrose.dat</code> to the <code>analyzed</code> directory. The shell will expand *.dat to match all .dat files in the current directory. The <code>mv</code> command then moves the list of .dat files to the ‘analyzed’ directory.
 
+
+
+</details>
+
+[Episode 3 Exercise 10](episode3_ex10.md)
