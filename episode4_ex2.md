@@ -28,9 +28,9 @@ Hint: Try executing each command twice in a row and then examining the output fi
 Solution
   </summary>
 
-In the first example with ```>```, the string ‘hello’ is written to ```testfile01.txt```, but the file gets overwritten each time we run the command.
+In the first example with <code>></code>, the string ‘hello’ is written to <code>testfile01.txt</code> but the file gets overwritten each time we run the command.
 
-We see from the second example that the ```>>``` operator also writes ‘hello’ to a file (in this ```casetestfile02.txt```), but appends the string to the file if it already exists (i.e. when we run it for the second time).
+We see from the second example that the <code>>></code> operator also writes ‘hello’ to a file (in this <code>casetestfile02.txt</code>), but appends the string to the file if it already exists (i.e. when we run it for the second time).
 
 </details>
 
