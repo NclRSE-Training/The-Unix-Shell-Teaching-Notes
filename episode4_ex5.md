@@ -28,9 +28,11 @@ Solution
 
   The <code>head</code> command extracts the first 5 lines from <code>animals.txt</code>. Then, the last 3 lines are extracted from the previous 5 by using the <code>tail</code> command. With the <code>sort -r</code> command those 3 lines are sorted in reverse order and finally, the output is redirected to a file <code>final.txt</code>. The content of this file can be checked by executing <code>cat final.txt</code>. The file should contain the following lines:
 
+  <code>
 2012-11-06,rabbit
 2012-11-06,deer
 2012-11-05,raccoon
+  </code>
 
 </details>
 
