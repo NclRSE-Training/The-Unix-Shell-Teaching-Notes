@@ -1,4 +1,4 @@
-## 3.5 Pipe Reading Comprehension
+## 4.5 Pipe Reading Comprehension
 
 A file called ```animals.txt``` (in the ```shell-lesson-data/data``` folder) contains the following data:
 
