@@ -5,8 +5,8 @@ In the ```shell-lesson-data/molecules``` directory, what is the effect of this l
 ```bash
 for alkanes in *.pdb
 do
-echo $alkanes
-cat $alkanes > alkanes.pdb
+  echo $alkanes
+  cat $alkanes > alkanes.pdb
 done
 ```
 
@@ -19,8 +19,7 @@ done
   <summary>
 Solution
   </summary>
-    
-  The text from each file in turn gets written to the <code>alkanes.pdb</code> file. However, the file gets overwritten on each loop iteration, so the final content of <code>alkanes.pdb</code> is the text from the <code>propane.pdb</code> file.
+The text from each file in turn gets written to the <code>alkanes.pdb</code> file. However, the file gets overwritten on each loop iteration, so the final content of <code>alkanes.pdb</code> is the text from the <code>propane.pdb</code> file.
 </details>
 
 [Episode 5 Exercise 5](episode5_ex5.md)
