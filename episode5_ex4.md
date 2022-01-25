@@ -3,11 +3,11 @@
 In the ```shell-lesson-data/molecules``` directory, what is the effect of this loop?
 
 ```bash
-for alkanes in *.pdb
-do
-  echo $alkanes
-  cat $alkanes > alkanes.pdb
-done
+> for alkanes in *.pdb
+> do
+>    echo $alkanes
+>    cat $alkanes > alkanes.pdb
+> done
 ```
 
 1. Prints ```cubane.pdb```, ```ethane.pdb```, ```methane.pdb```, ```octane.pdb```, ```pentane.pdb``` and ```propane.pdb```, and the text from ```propane.pdb``` will be saved to a file called ```alkanes.pdb```.
