@@ -48,7 +48,7 @@ cubane.pdb  ethane.pdb  methane.pdb  octane.pdb  pentane.pdb  propane.pdb
 cubane.pdb  ethane.pdb  methane.pdb  octane.pdb  pentane.pdb  propane.pdb
 cubane.pdb  ethane.pdb  methane.pdb  octane.pdb  pentane.pdb  propane.pdb
 cubane.pdb  ethane.pdb  methane.pdb  octane.pdb  pentane.pdb  propane.pdb
-<pre>
+</pre>
 
 The second code block lists a different file on each loop iteration. The value of the <code>datafile</code> variable is evaluated using <code>$datafile</code>, and then listed using <code>ls</code>.
 
