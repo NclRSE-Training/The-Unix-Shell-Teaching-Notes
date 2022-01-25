@@ -19,7 +19,7 @@ Solution
   </summary>
 
 We have a nested loop, i.e. contained within another loop, so for each species in the outer loop, the inner loop (the nested loop) iterates over the list of temperatures, and creates a new directory for each combination.
-
+<br>
 Try running the code for yourself to see which directories are created!
 </details>
 
