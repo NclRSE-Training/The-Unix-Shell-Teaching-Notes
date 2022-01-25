@@ -27,7 +27,7 @@ Solution
 wc -l $1/*.$2 | sort -n | tail -n 2 | head -n 1</code></pre>
 
   The first part of the pipeline, <code>wc -l $1/*.$2 | sort -n</code>, counts the lines in each file and sorts them numerically (largest last). When there’s more than one file, <code>wc</code> also outputs a final summary line, giving the total number of lines across all files. We use <code>tail -n 2 | head -n 1</code> to throw away this last line.
-
+<br>
   With <code>wc -l $1/*.$2 | sort -n | tail -n 1</code> we’ll see the final summary line: we can build our pipeline up in pieces to be sure we understand the output.
 </details>
 
