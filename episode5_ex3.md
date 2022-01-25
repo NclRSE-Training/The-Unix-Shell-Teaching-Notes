@@ -9,16 +9,16 @@ $ for filename in c*
 > done
 ```
 
-No files are listed.
-All files are listed.
-Only ```cubane.pdb```, ```octane.pdb``` and ```pentane.pdb``` are listed.
-Only ```cubane.pdb``` is listed.
+1. No files are listed.
+1. All files are listed.
+1. Only ```cubane.pdb```, ```octane.pdb``` and ```pentane.pdb``` are listed.
+1. Only ```cubane.pdb``` is listed.
 
 <details>
   <summary>
 Solution
   </summary>
-4 is the correct answer. ```*``` matches zero or more characters, so any file name starting with the letter c, followed by zero or more other characters will be matched.
+  4 is the correct answer. <code>*</code> matches zero or more characters, so any file name starting with the letter c, followed by zero or more other characters will be matched.
 </details>
   
 How would the output differ from using this command instead?
