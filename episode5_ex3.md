@@ -41,7 +41,7 @@ Only the file ```octane.pdb``` will be listed.
 Solution
   </summary>
 
-4 is the correct answer. ```*``` matches zero or more characters, so a file name with zero or more characters before a letter c and zero or more characters after the letter c will be matched.
+  4 is the correct answer. <code>*</code> matches zero or more characters, so a file name with zero or more characters before a letter c and zero or more characters after the letter c will be matched.
 </details>
 
 [Episode 5 Exercise 4](episode5_ex4.md)
