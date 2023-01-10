@@ -8,7 +8,7 @@ what command(s) will result in the following output:
 pnas_sub/ pnas_final/ original/
 ~~~
 
-![File System for Challenge Questions](fig/filesystem-challenge.svg)
+![File System for Challenge Questions](https://newcastlerse-training.github.io/carpentries-unix-exercises/fig/filesystem-challenge.svg)
 
 1.  `ls pwd`
 

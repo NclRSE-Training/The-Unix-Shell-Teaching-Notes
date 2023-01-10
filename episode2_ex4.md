@@ -6,7 +6,7 @@ If `pwd` displays `/Users/thing`,
 3.  `2012-12-01/ 2013-01-08/ 2013-01-27/`
 4.  `original/ pnas_final/ pnas_sub/`
 
-![File System for Challenge Questions](fig/filesystem-challenge.svg)
+![File System for Challenge Questions](https://newcastlerse-training.github.io/carpentries-unix-exercises/fig/filesystem-challenge.svg)
 
 
 <details>
