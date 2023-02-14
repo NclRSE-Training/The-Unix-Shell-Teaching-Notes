@@ -1,1 +1,3 @@
-[Episode 2 Exercise 1](episode2_ex1.md)
+[Episode 2 Home Directory Variation](episode2_home_dir.md)
+
+
