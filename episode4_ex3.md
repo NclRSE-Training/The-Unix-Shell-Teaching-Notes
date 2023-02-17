@@ -22,4 +22,4 @@ Solution
   Option 3 is correct. For option 1 to be correct we would only run the <code>head</code> command. For option 2 to be correct we would only run the <code>tail</code> command. For option 4 to be correct we would have to pipe the output of <code>head</code> into <code>tail -n 2</code> by doing <code>head -n 3 animals.txt | tail -n 2 > animals-subset.txt</code>
 
 </details>
-[Episode 4 Exercise 4.md](episode4_ex4.md)
+[Episode 4 Piping commands together](episode4_ex3_piping.md)
