@@ -22,4 +22,4 @@ Solution
 The text from each file in turn gets written to the <code>alkanes.pdb</code> file. However, the file gets overwritten on each loop iteration, so the final content of <code>alkanes.pdb</code> is the text from the <code>propane.pdb</code> file.
 </details>
 
-[Episode 5 Exercise 5](episode5_ex5.md)
+[Episode 5 Shell Script For Loop](episode5_ex4_shell_for.md)
