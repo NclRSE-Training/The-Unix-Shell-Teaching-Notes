@@ -13,8 +13,9 @@ Leah has several hundred data files saved in one directory, each of which is for
 She wants to write a shell script that takes a species as the first command-line argument and a directory as the second argument. The script should return one file called ```species.txt``` containing a list of dates and the number of that species seen on each date. For example using the data shown above, ```rabbit.txt``` would contain:
 
 ```
-2013-11-05,22
-2013-11-06,19
+2012-11-05,22
+2012-11-06,19
+2012-11-07,16
 ```
 
 Put these commands and pipes in the right order to achieve this:
@@ -23,7 +24,7 @@ Put these commands and pipes in the right order to achieve this:
 cut -d : -f 2
 >
 |
-grep -w $1 -r $2
+grep -w -n $1 -r $2
 |
 $1.txt
 cut -d , -f 1,3
